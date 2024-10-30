@@ -1,4 +1,4 @@
-variable1= 33
-varaible2= 44
+variable1= float(input("enter your number"))
+varaible2= float(input("enter your number"))
 sum= variable1 + varaible2
 print(sum)
