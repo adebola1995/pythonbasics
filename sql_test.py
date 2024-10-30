@@ -11,4 +11,3 @@ if(connection.is_connected()):
     print("yipee!! DB is connectedo!")
 else:
     print("DB could not be connected to")
-
